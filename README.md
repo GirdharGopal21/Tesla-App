@@ -80,13 +80,6 @@ Build and run the app on a **simulator** or **physical device** using **Xcode**.
 ---
 
 
-## 📸 Screenshots (optional)
-
-> Add UI previews or screen recordings of splash animation, music player, map view, and car control interface here.
-
----
-
-
 ## 🙌 Acknowledgements
 
 This project was inspired by the modern Tesla app UI and serves as a UI/UX concept clone. It's a great reference for:
