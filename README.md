@@ -41,7 +41,7 @@ The app targets iOS 16 and above. Make sure you have Xcode 14+ installed.
 
 Clone the repository
 
-git clone https://github.com/mdossantosdev/tesla-app.git
+git clone https://github.com/GirdharGopal21/Tesla-App.git
 
 
 Go into Tesla project
